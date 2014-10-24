@@ -1,5 +1,4 @@
 Hello-World
 ===========
 
-Very VERY Descriptive!!!
-
+Very Descriptive
